@@ -1,0 +1,27 @@
+.MainBG{
+    background-image: url(../images/tacna\ mmm.jpeg); 
+}
+  
+
+.skills{
+    background-color: antiquewhite;
+    color: #242424;
+
+
+}
+
+.experience{
+    background-color: azure;
+    color: #0c0c0c;
+}
+
+.Aboutmeimages{
+    
+    height: 80%;
+    width:50%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    
+
+}
